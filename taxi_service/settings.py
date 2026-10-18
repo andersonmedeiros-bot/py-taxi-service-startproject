@@ -127,3 +127,4 @@ MAILERS = {
     },
 }
 AUTH_USER_MODEL = 'taxi.Driver'
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
